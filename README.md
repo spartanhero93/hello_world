@@ -1,4 +1,4 @@
 # hello_world
 First time projects for Java 8
 
-jfdskoiajnmogkfjg
+I am currently learning Java and plan to succeed in it.
